@@ -1,3 +1,7 @@
 body{
     background-color: teal !important;
 }
+
+#myList{
+    list-style-type: none;
+}
